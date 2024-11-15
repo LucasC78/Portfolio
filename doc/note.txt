@@ -1,0 +1,10 @@
+Option a ajouter
+-toute les bage manquante
+-alert avec bootsrap (modal)
+Problème a régler 
+-Centrer bouton des ap
+-redimessionner les images
+watchshop
+-faire fonctionner le js
+faire site ap 3
+finir de complété 
